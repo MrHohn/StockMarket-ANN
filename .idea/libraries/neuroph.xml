@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neuroph">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neuroph.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
